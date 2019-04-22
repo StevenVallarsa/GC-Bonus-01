@@ -1,0 +1,11 @@
+/Users/Steve/Projects/GC-Bonus-01/GC-Bonus-01/obj/Debug/netcoreapp2.1/GC-Bonus-01.csprojAssemblyReference.cache
+/Users/Steve/Projects/GC-Bonus-01/GC-Bonus-01/obj/Debug/netcoreapp2.1/GC-Bonus-01.csproj.CoreCompileInputs.cache
+/Users/Steve/Projects/GC-Bonus-01/GC-Bonus-01/obj/Debug/netcoreapp2.1/GC-Bonus-01.AssemblyInfoInputs.cache
+/Users/Steve/Projects/GC-Bonus-01/GC-Bonus-01/obj/Debug/netcoreapp2.1/GC-Bonus-01.AssemblyInfo.cs
+/Users/Steve/Projects/GC-Bonus-01/GC-Bonus-01/bin/Debug/netcoreapp2.1/GC-Bonus-01.deps.json
+/Users/Steve/Projects/GC-Bonus-01/GC-Bonus-01/bin/Debug/netcoreapp2.1/GC-Bonus-01.runtimeconfig.json
+/Users/Steve/Projects/GC-Bonus-01/GC-Bonus-01/bin/Debug/netcoreapp2.1/GC-Bonus-01.runtimeconfig.dev.json
+/Users/Steve/Projects/GC-Bonus-01/GC-Bonus-01/bin/Debug/netcoreapp2.1/GC-Bonus-01.dll
+/Users/Steve/Projects/GC-Bonus-01/GC-Bonus-01/bin/Debug/netcoreapp2.1/GC-Bonus-01.pdb
+/Users/Steve/Projects/GC-Bonus-01/GC-Bonus-01/obj/Debug/netcoreapp2.1/GC-Bonus-01.dll
+/Users/Steve/Projects/GC-Bonus-01/GC-Bonus-01/obj/Debug/netcoreapp2.1/GC-Bonus-01.pdb
